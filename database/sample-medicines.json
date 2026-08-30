@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Dolo 650",
+    "generic_name": "Paracetamol",
+    "uses": ["Fever", "Body pain", "Headache"],
+    "dosage": "Take only as prescribed by a doctor. Typical adult dose is one tablet every 4-6 hours as directed. Do not exceed the prescribed maximum daily dose.",
+    "side_effects": ["Nausea", "Stomach pain", "Allergic reactions"],
+    "warnings": [
+      "Do not exceed recommended dose",
+      "Use carefully in liver disease",
+      "Avoid alcohol while using this medicine"
+    ],
+    "interactions": ["Alcohol", "Other paracetamol medicines", "Warfarin (consult doctor)"],
+    "manufacturer": "Micro Labs",
+    "storage": "Store in a cool and dry place, away from direct sunlight.",
+    "faq": [
+      {
+        "question": "Can I use Dolo 650 for fever?",
+        "answer": "Dolo 650 is commonly used for fever and body pain. Follow prescribed dosage and consult a doctor if symptoms continue."
+      },
+      {
+        "question": "Can I take Dolo 650 on an empty stomach?",
+        "answer": "It can often be taken with or without food, but follow your doctor's advice if you have stomach issues."
+      }
+    ]
+  },
+  {
+    "name": "Crocin Advance",
+    "generic_name": "Paracetamol",
+    "uses": ["Fever", "Mild to moderate pain"],
+    "dosage": "Take only as prescribed by a doctor.",
+    "side_effects": ["Nausea", "Rash", "Liver problems if overdosed"],
+    "warnings": ["Do not combine with other paracetamol products", "Not for long-term use without medical advice"],
+    "interactions": ["Alcohol", "Other paracetamol medicines"],
+    "manufacturer": "GSK",
+    "storage": "Store below 25°C in a dry place.",
+    "faq": [
+      {
+        "question": "Is Crocin the same as Dolo?",
+        "answer": "Both contain paracetamol but brand formulations may differ. Always follow your doctor's recommendation."
+      }
+    ]
+  },
+  {
+    "name": "Azithral 500",
+    "generic_name": "Azithromycin",
+    "uses": ["Bacterial infections as prescribed by a doctor"],
+    "dosage": "Take exactly as prescribed. Complete the full course even if you feel better.",
+    "side_effects": ["Nausea", "Diarrhea", "Stomach upset", "Dizziness"],
+    "warnings": [
+      "Antibiotic – use only when prescribed",
+      "Not for viral infections like common cold or flu",
+      "Inform doctor about liver or heart conditions"
+    ],
+    "interactions": ["Antacids (timing matters)", "Warfarin", "Certain heart medicines"],
+    "manufacturer": "Alembic Pharmaceuticals",
+    "storage": "Store at room temperature, protect from moisture.",
+    "faq": [
+      {
+        "question": "Can I stop Azithral when I feel better?",
+        "answer": "You should complete the prescribed course unless your doctor advises otherwise."
+      }
+    ]
+  },
+  {
+    "name": "Pan 40",
+    "generic_name": "Pantoprazole",
+    "uses": ["Acidity", "GERD", "Stomach ulcers as prescribed"],
+    "dosage": "Usually taken once daily before breakfast or as directed by a doctor.",
+    "side_effects": ["Headache", "Diarrhea", "Nausea", "Abdominal pain"],
+    "warnings": [
+      "Long-term use should be supervised by a doctor",
+      "Report persistent stomach pain to a doctor"
+    ],
+    "interactions": ["Clopidogrel", "Methotrexate", "Iron supplements (timing may matter)"],
+    "manufacturer": "Alkem Laboratories",
+    "storage": "Store in a cool, dry place.",
+    "faq": [
+      {
+        "question": "When should I take Pan 40?",
+        "answer": "Typically before breakfast on an empty stomach, but follow your doctor's instructions."
+      }
+    ]
+  },
+  {
+    "name": "Allegra 120",
+    "generic_name": "Fexofenadine",
+    "uses": ["Allergic rhinitis", "Hay fever", "Skin allergy symptoms"],
+    "dosage": "Take as prescribed by a doctor, usually once daily.",
+    "side_effects": ["Headache", "Drowsiness (uncommon)", "Nausea"],
+    "warnings": ["Avoid fruit juices close to dose time unless advised", "Use caution when driving if drowsy"],
+    "interactions": ["Antacids containing aluminum or magnesium", "Certain antifungal medicines"],
+    "manufacturer": "Sanofi",
+    "storage": "Store at room temperature away from moisture.",
+    "faq": [
+      {
+        "question": "Does Allegra cause sleepiness?",
+        "answer": "It is generally non-drowsy, but individual reactions vary. Consult a doctor if concerned."
+      }
+    ]
+  },
+  {
+    "name": "Combiflam",
+    "generic_name": "Ibuprofen + Paracetamol",
+    "uses": ["Pain", "Fever", "Inflammation as prescribed"],
+    "dosage": "Take only as prescribed by a doctor. Do not exceed recommended dose.",
+    "side_effects": ["Nausea", "Heartburn", "Stomach pain", "Dizziness"],
+    "warnings": [
+      "Not for everyone – avoid if you have certain stomach, kidney, or heart conditions unless prescribed",
+      "Do not combine with other NSAIDs or paracetamol without medical advice"
+    ],
+    "interactions": ["Aspirin", "Other NSAIDs", "Blood thinners", "Alcohol"],
+    "manufacturer": "Sanofi",
+    "storage": "Store in a cool, dry place.",
+    "faq": [
+      {
+        "question": "Can I take Combiflam for headache?",
+        "answer": "It may be used for pain and fever when prescribed. Always follow your doctor's guidance."
+      }
+    ]
+  },
+  {
+    "name": "Hifenac 100",
+    "generic_name": "Aceclofenac",
+    "uses": [
+      "Pain relief",
+      "Inflammation",
+      "Osteoarthritis",
+      "Rheumatoid arthritis",
+      "Ankylosing spondylitis (as prescribed by a doctor)"
+    ],
+    "dosage": "Take only as prescribed by a doctor. Usually taken with or after food to reduce stomach irritation. Do not exceed the prescribed dose or duration.",
+    "side_effects": [
+      "Nausea",
+      "Indigestion",
+      "Stomach pain",
+      "Diarrhea",
+      "Dizziness",
+      "Elevated liver enzymes (with prolonged use)"
+    ],
+    "warnings": [
+      "NSAID – not suitable for everyone",
+      "Avoid if you have active stomach ulcers or bleeding unless prescribed",
+      "Use caution in kidney disease, heart disease, asthma, or pregnancy",
+      "Avoid alcohol while taking this medicine unless your doctor approves"
+    ],
+    "interactions": [
+      "Other NSAIDs (ibuprofen, aspirin)",
+      "Blood thinners (warfarin)",
+      "Lithium",
+      "Methotrexate",
+      "Certain blood pressure medicines"
+    ],
+    "manufacturer": "Intas Pharmaceuticals",
+    "storage": "Store in a cool, dry place below 25°C. Keep away from children.",
+    "faq": [
+      {
+        "question": "What are the uses of aceclofenac?",
+        "answer": "Aceclofenac is commonly used for pain and inflammation related to conditions such as osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis when prescribed by a doctor. It should only be used under medical supervision."
+      },
+      {
+        "question": "Can I take aceclofenac for fever?",
+        "answer": "It is primarily used for pain and inflammation, not usually as a first choice for fever. Follow your doctor's advice for fever management."
+      }
+    ]
+  }
+]
